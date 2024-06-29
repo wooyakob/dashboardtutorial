@@ -1,4 +1,7 @@
 # dashboardtutorial
+
+# use npm run dev to run app
+
 build dash to learn react and nextjs
 nextjs is a react framework
 to create full stack web applications
